@@ -54,7 +54,7 @@ Sugestão: Utilizar ferramentas como Pandas Proffile e Sweetviz , Seaborn e Matp
     
 >#### 5.1 Processo de classificação na base de dados clássica:<br>
 >...
->#### 5.2 Processo de classificação na base de dados obtida:<br>
+>#### 5.2 Processo de classificação na base de dados em estudo:<br>
 >...
 
 
@@ -64,7 +64,7 @@ Sugestão: Utilizar ferramentas como Pandas Proffile e Sweetviz , Seaborn e Matp
     
 >#### 6.1 Processo de estimação/regressão na base de dados clássica:<br>
 >...
->#### 6.2 Processo de estimação/regressão na base de dados obtida:<br>
+>#### 6.2 Processo de estimação/regressão na base de dados em estudo:<br>
 >...
 >
 ># Marco de Entrega 02: Itens do Sprint 02 <br>
@@ -75,12 +75,12 @@ Sugestão: Utilizar ferramentas como Pandas Proffile e Sweetviz , Seaborn e Matp
     
 >#### 7.1 Processo de AutoML na base de dados clássica:<br>
 >...
->#### 7.2 Processo de AutoML na base de dados obtida:<br>
+>#### 7.2 Processo de AutoML na base de dados em estudo:<br>
 >...
 >
 ### 8. Resultados e Artefatos
 >#### 8.1 Slides Finais
->#### 8.3 Demais artefatos solicitados pelo professor
+>#### 8.2 Demais artefatos solicitados pelo professor
 
 
 ># Marco de Entrega 03: Conclusão das atividades <br>
